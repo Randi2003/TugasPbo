@@ -9,12 +9,7 @@ public class UserInterface {
         System.out.println("+===============+");
         System.out.println("|  Pilih menu:  |");
         System.out.println("+---------------+");
-        System.out.println("|  [C] : Create |");
-        System.out.println("|  [R] : Read   |");
-        System.out.println("|  [U] : Update |");
-        System.out.println("|  [D] : Delete |");
         System.out.println("|  [O] : View   |");
-        System.out.println("|  [X] : Exit   |");
         System.out.println("+===============+");
 
     }
