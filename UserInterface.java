@@ -13,7 +13,7 @@ public class UserInterface {
         System.out.println("|  [R] : Read   |");
         System.out.println("|  [U] : Update |");
         System.out.println("|  [D] : Delete |");
-        System.out.println("|  [O] : Exit   |");
+        System.out.println("|  [X] : Exit   |");
         System.out.println("+===============+");
 
     }
