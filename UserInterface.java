@@ -9,6 +9,11 @@ public class UserInterface {
         System.out.println("+===============+");
         System.out.println("|  Pilih menu:  |");
         System.out.println("+---------------+");
+        System.out.println("|  [C] : Create |");
+        System.out.println("|  [R] : Read   |");
+        System.out.println("|  [U] : Update |");
+        System.out.println("|  [D] : Delete |");
+        System.out.println("|  [O] : View   |");
         System.out.println("|  [O] : View   |");
         System.out.println("+===============+");
 
@@ -53,10 +58,10 @@ public class UserInterface {
                     break;
                 case "R":
                     System.out.println("INFO: Anda memilih menu Read");
-                    db.view();
+    
                     break;
                 case "O":
-                    db.view();
+
                     break;
                 case "U":
                     System.out.println("INFO: Anda memilih menu Update");
